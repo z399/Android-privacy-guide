@@ -56,7 +56,7 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 
-* Our pick **Telegram** (for beginners)
+* Our pick - **Telegram** (for beginners)
 
 
 
@@ -69,7 +69,7 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [MEGA](https://mega.nz/) - Files are end-to-end encrypted locally before they are uploaded 
 
-* Our pick **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service 
+* Our pick - **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service 
   
 
 ## VPN
@@ -90,7 +90,7 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
 
-* Our pick **Protonmail** (for beginners)
+* Our pick - **Protonmail** (for beginners)
 
 ## Operating Systems
 
@@ -110,6 +110,8 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 - [Tor Browser](https://www.torproject.org) -(android version) Tor Browser isolates each website you visit so third-party trackers and ads can't follow you. Any cookies automatically clear when you're done browsing. So will your browsing history.
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox is a free and open-source web browser, which respects your privacy
+
+* Our pick - **Bromite**
 
 ## Youtube Client
 
