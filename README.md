@@ -20,45 +20,31 @@
 
 ## Contents
 
-This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
-
-For reasons why you may want to care about this, you can read [this article](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079).
-
-The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
+Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vide evertitur efficiantur. Mei deleniti concludaturque in. Vim at veniam minimum interpretaris, quas iusto pertinax cu cum. Aeque saepe tritani eu vel, blandit singulis recteque ut pro. Stet suscipit oporteat eos et, est nemore meliore at.
 
 ## Search Engines
 
-**⚠️ You are the product:**
-
-- Google - [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/).
-- Bing - Owned by Microsoft.
-- Yandex - Russia's version of Google.
-
 **🔏 Alternatives:**
 
-- [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
-- [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
 - [Searx](https://github.com/asciimoo/searx#readme) - [Why use Searx?](https://asciimoo.github.io/searx/)
-- [Qwant](https://www.qwant.com/) - [Qwant privacy policy](https://about.qwant.com/legal/privacy/).
+
+- [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
+
+   Our pick - Duckduckgo
 
 ## Social Networks
 
-**⚠️ You are the product:**
-
-- Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
-- Instagram - Owned by Facebook.
-
 **🔏 Alternatives:**
 
-- [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
-- [Mastodon](https://joinmastodon.org/) - [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE) [Mastodon instances](https://instances.social/).
-- [Diaspora](https://joindiaspora.com/) - [What is Diaspora?](https://diasporafoundation.org/)
-- [Steemit](https://steemit.com/) - [What is Steemit?](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/)
-- [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
+- [Mastodon](https://joinmastodon.org/) - [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE) [Mastodon instances](https://instances.social/). (alt for twitter)
+
+- [Friendica](https://friendi.ca/) - Friendica is an open, free, distributed social network. It forms one part of the Fediverse, an interconnected and decentralized network of independently operated servers (alt for facebook)
+
+- [Pixelfed](pixelfed.org/) - A free and ethical photo sharing platform (alt for instagram)
+
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
-- [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
-- [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
-- [Cent](https://cent.co/) - Democratized social network built on Ethereum. [What is Cent?](https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8)
+
+Our pick - Minds
 
 ## Messengers
 
