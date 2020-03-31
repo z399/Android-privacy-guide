@@ -137,4 +137,4 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [Aurora Store](https://auroraoss.com/) Aurora Store is an Unofficial FOSS client to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about app tracker & adware and much more.
 
-   - note - **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
+   - *note* - **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
