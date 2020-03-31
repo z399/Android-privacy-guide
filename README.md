@@ -122,3 +122,5 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [New Pipe](https://newpipe.schabi.org/) NewPipe is a free and open-source media player app that is most well-known as a YouTube client.
 
+* Our pick - **Youtube Vanced** (for beginners)
+
