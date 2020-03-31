@@ -30,7 +30,7 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 
-   Our pick - Duckduckgo
+  * Our pick - **Duckduckgo**   
 
 ## Social Networks
 
@@ -44,93 +44,59 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 
-Our pick - Minds
+* Our pick - **Minds**
 
 ## Messengers
-
-**⚠️ You are the product:**
-
-- WhatsApp - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol) thus chats are E2E encrypted. However it sends entire user's contact books to FB servers. Owned by Facebook.
-- Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
 
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
-- [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
+
 - [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
-- [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and Dropbox alternative.
-- [Ring](https://ring.cx/) - [About Ring](https://ring.cx/en/about/practical).
-- [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
+
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
-- [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-- [Tox](https://github.com/TokTok/c-toxcore#readme) - Peer-to-peer serverless IM platform.
-- [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
-- [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
-- [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
-- [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
-- [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
+
+* Our pick **Telegram** (for beginners)
+
+
 
 ## Cloud Storage
 
-**⚠️ You are the product:**
-
-- Google Drive - Centralized and owned by Google.
-- OneDrive - Owned by Microsoft.
-
 **🔏 Alternatives:**
 
-- [IPFS](https://ipfs.io/) - [Open source](https://github.com/ipfs/ipfs#readme)
-- [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing#readme).
-- [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
+
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
-- [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
-- [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
-- [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
-- [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
-  - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
-  - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
-- [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
+
+- [MEGA](https://mega.nz/) - Files are end-to-end encrypted locally before they are uploaded 
+
+* Our pick **MEGA** (for beginners)
+
 
 ## VPN
-
-**⚠️ You are the product:**
-
-- Any VPN that is free or keeps logs.
 
 **🔏 Alternatives:**
 
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
-- [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
-- [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
+
 
 ## Email
 
-**⚠️ You are the product:**
-
-- Gmail - Owned by Google.
-- Outlook - Owned by Microsoft.
-- Yahoo - [Multiple data breaches](https://en.wikipedia.org/wiki/Yahoo!_data_breaches).
 
 **🔏 Alternatives:**
 
 - [Mailfence](https://mailfence.com) - [Secure](https://mailfence.com/en/secure-email.jsp) and [private](https://mailfence.com/en/private-email.jsp) email-suite ([About](https://blog.mailfence.com/about-mailfence/), [Privacy policy](https://mailfence.com/en/privacy.jsp), [Transparency report](https://blog.mailfence.com/transparency-report-and-warrant-canary/)).
+
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
+
 - [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
-- [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
-- [iRedMail](https://www.iredmail.org/) - Be your own email provider.
-- [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
-- [Fastmail](https://fastmail.com) - Email, calendars, and contacts. [Privacy Policy](https://www.fastmail.com/about/privacy.html).
-- [Kolab Now](https://kolabnow.com) - Online service providing personal [Kolab Groupware](https://kolabenterprise.com) on desired level. [Privacy Statement](https://kolabnow.com/privacy).
+
+* Our pick **Protonmail** (for beginners)
 
 ## Operating Systems
 
 **⚠️ You are the product:**
 
-- Windows - [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/).
-- Chrome OS - Owned by Google.
-- Android (preinstalled) - [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/).
+
 
 **🔏 Alternatives:**
 
