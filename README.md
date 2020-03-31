@@ -15,8 +15,8 @@
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
 - [Youtube Client](#youtube-client)
-- [AI Assistants](#ai-assistants)
-- [Related](#related)
+- [Additional tools](#additional-tools)
+- [App Store](#app-store)
 
 ## Contents
 
@@ -124,3 +124,17 @@ Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vi
 
 * Our pick - **Youtube Vanced** (for beginners)
 
+
+## Additional Tools
+
+
+- [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) This keyboard is created for those who only need a keyboard and nothing more. (Also available in playstore)
+
+
+## App Store
+
+- [F-droid](https://f-droid.org/) F-Droid is a community-maintained software repository for Android, similar to the Google Play store. The main repository, hosted by the project, contains only free libre software apps. Applications can be browsed and installed from the F-Droid website or client app without the need to register for an account
+
+-[Aurora Store](https://auroraoss.com/) Aurora Store is an Unofficial FOSS client to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about app tracker & adware and much more.
+
+    **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
