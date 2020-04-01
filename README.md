@@ -18,9 +18,13 @@
 - [Additional tools](#additional-tools)
 - [App Store](#app-store)
 
-## Contents
+## Introduction
 
-Probo zril salutandi eos et, nihil liberavisse vituperatoribus eu vel, est id vide evertitur efficiantur. Mei deleniti concludaturque in. Vim at veniam minimum interpretaris, quas iusto pertinax cu cum. Aeque saepe tritani eu vel, blandit singulis recteque ut pro. Stet suscipit oporteat eos et, est nemore meliore at.
+privacy is a major concern on internet.it has been a necessity for everyone to switch to the side of opensource
+products in order to ensure privacy of data. this guide provides the best sources of applications and services as 
+enlisted below.the applications are tested and it is neither free or the services includes a free-tier respectively.
+
+Repositories will keep updating based on analysis of the products mentioned and provide the suitable privacy updates!
 
 ## Search Engines
 
