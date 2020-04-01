@@ -5,7 +5,7 @@
 
 #### Contents
 
-- [Contents](#contents)
+- [Introduction](#introduction)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
@@ -107,13 +107,13 @@ Repositories will keep updating based on analysis of the products mentioned and 
 
 **🔏 Alternatives:**
 
-- [Bromite](https://www.bromite.org/) - Bromite is Chromium plus ad blocking and enhanced privacy
+- [Bromite](https://www.bromite.org/) - is Chromium plus ad blocking and enhanced privacy
 
 - [Brave](https://www.brave.com/) -(android version) The browser blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators. Based on chromium
 
-- [Tor Browser](https://www.torproject.org) -(android version) Tor Browser isolates each website you visit so third-party trackers and ads can't follow you. Any cookies automatically clear when you're done browsing. So will your browsing history.
+- [Tor Browser](https://www.torproject.org) -(android version) isolates each website you visit so third-party trackers and ads can't follow you. Any cookies automatically clear when you're done browsing. So will your browsing history.
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox is a free and open-source web browser, which respects your privacy
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)(android version) is a free and open-source web browser, which respects your privacy
 
 * Our pick - **Bromite**
 
