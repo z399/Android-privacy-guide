@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/tcqQmAj.jpg"></p>
 
-> Filtered List of Privacy Respecting Services and Software
+> Filtered List of Privacy Respecting Services and Softwares
 
 
 #### Contents
