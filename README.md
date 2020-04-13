@@ -132,7 +132,9 @@ Repositories will keep updating based on analysis of the products mentioned and 
 
 - [Youtube Vanced](https://www.xda-developers.com/youtube-vanced-apk/) is a popular modded version of YouTube. It adds a number of features to the official YouTube app, including built-in adblocking, background playback, black/dark themes, and much more.
 
-- [New Pipe](https://newpipe.schabi.org/) is a free and open-source media player app that is most well-known as a YouTube client.
+- [New Pipe](https://newpipe.schabi.org/) is a free and open-source media player app that is most well-known as a YouTube client. (use Split Apk Installer to install the download apk of youtube vanced)
+
+
 
 * Our pick - **Youtube Vanced** (for beginners)
 
