@@ -266,6 +266,6 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
  [![Nebula0loop](https://avatars2.githubusercontent.com/u/62870678?s=200&u=ac6b6c7dcf7309a843668ac3c9d96cdeb81db52d&v=3)](https://github.com/nebula0loop)      [![Pegasx-x](https://avatars3.githubusercontent.com/u/62893921?s=200&u=3bc9b81019ecea2ed553f706b9152fb1ff620c15&v=3)](https://github.com/pegasx-x)    
 
    
- <p align="center"> Join the Discussion - https://t.me/communityall </p>
+ <p align="center"> Join the channel - https://t.me/FLOSSandroid </p>
 
 
