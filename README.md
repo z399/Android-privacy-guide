@@ -32,7 +32,7 @@ enlisted below. The applications are tested and it is neither free or the servic
 
 Repositories will keep updating based on analysis of the products mentioned and provide the suitable privacy updates!
 
-**Join the Discussion - https://t.me/communityall**
+**Join the channel - https://t.me/FLOSSandroid**
 
 ## Search Engines
 
@@ -81,7 +81,7 @@ Repositories will keep updating based on analysis of the products mentioned and 
 
 - [MEGA](https://mega.nz/) - Files are end-to-end encrypted locally before they are uploaded 
 
-* Our pick - **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service 
+* Our pick - **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service and encrypt your files with [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
   
 
 ## VPN
@@ -185,10 +185,6 @@ Repositories will keep updating based on analysis of the products mentioned and 
 
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) is a Free as in Freedom torrent client for Android 4+, based on libtorrent. Download and share files directly on your device.
 
-- [Torrent Client](https://f-droid.org/en/packages/com.github.axet.torrentclient/) - Nice and simple torrent client. Supports magnet links, creating torrent files, UPNP, PMP, uTP, PEX and more.
-
-
-* Our pick - **LibreTorrent** (for beginners)
 
 
 ## Digital Notebook
