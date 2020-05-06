@@ -15,7 +15,7 @@
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
 - [Youtube Client](#youtube-client)
-- [Additional tools](#additional-tools)
+- [Keyboard](#keyboard)
 - [App Store](#app-store)
 - [Password Manager](#password-manager)
 - [Torrent Client](#torrent-client)
@@ -134,13 +134,13 @@ Repositories will keep updating based on analysis of the products mentioned and 
 
 
 
-## Additional Tools
+## Keyboard
  
  
  **🔏 Alternatives:**
 
 
-- [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) This keyboard is created for those who only need a keyboard and nothing more. (Also available in playstore)
+- [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) This keyboard is created for those who only need a keyboard and nothing more. 
 
 
 ## App Store
