@@ -30,7 +30,7 @@ Privacy is a major concern on internet.it has been a necessity for everyone to s
 products in order to ensure privacy of data. this guide provides the best sources of applications and services as 
 enlisted below. The applications are tested and it is neither free or the services includes a free-tier respectively.
 
-The list will keep updating based on analysis of the products mentioned and provide the suitable privacy updates!
+The list will keep updating based on analysis of the products mentioned and provide the suitable privacy updates in the future!
 
 **Join the channel - https://t.me/FLOSSandroid**
 
