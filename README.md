@@ -109,7 +109,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 **🔏 Alternatives:**
 
 - [LineageOS](https://lineageos.org/) - an open-source Android distribution
-
+- [GrapheneOS](https://grapheneos.org/) - an open source privacy and security focused mobile OS with Android app compatibility.
 
 ## Browsers
 
