@@ -248,7 +248,7 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
 
 ## Team
 
-> Or Contributors/People
+> Our Contributors/People
 
 | <a href="https://github.com/nebulaxz" target="_blank">**Nebulaxz**</a> | <a href="https://github.com/pegasx-x" target="_blank">**Pegasx-x**</a> |
 
