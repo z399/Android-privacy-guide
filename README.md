@@ -17,6 +17,8 @@
 - [Youtube Client](#youtube-client)
 - [Keyboard](#keyboard)
 - [App Store](#app-store)
+- [Video player](#video-player)
+- [Music player](#music-player)
 - [Password Manager](#password-manager)
 - [Torrent Client](#torrent-client)
 - [Digital Notebook](#digital-notebook)
@@ -155,6 +157,17 @@ The list will keep updating based on analysis of the products mentioned and prov
 - [Aurora Store](https://auroraoss.com/) is an Unofficial FOSS client to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about app tracker & adware and much more.
 
    - *note* - **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
+
+
+
+## Video player
+
+- [VLC](https://f-droid.org/en/packages/org.videolan.vlc/) the ultimate Video and audio player that supports a wide range of formats, for both local and remote playback.
+
+
+## Music player
+
+- [Music](https://f-droid.org/packages/com.maxfour.music/) is a Lightweight and Material Music Player
 
 
 ## Password Manager 
