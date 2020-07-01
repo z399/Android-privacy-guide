@@ -22,6 +22,7 @@
 - [Digital Notebook](#digital-notebook)
 - [File Sharing](#file-sharing)
 - [Maps](#maps)
+- [Firewall](#firewall)
 - [Private DNS](#private-dns)
 
 ## Introduction
@@ -212,6 +213,17 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)(OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
 Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
+
+
+
+
+
+## Firewall
+
+**🔏 Alternatives:**
+
+- [Netguard](https://f-droid.org/en/packages/eu.faircode.netguard/) provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.This is the first free and open source no-root firewall for Android.
+
 
 
 
