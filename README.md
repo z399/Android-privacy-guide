@@ -24,6 +24,7 @@
 - [Digital Notebook](#digital-notebook)
 - [File Sharing](#file-sharing)
 - [Maps](#maps)
+- [Video conferencing](#video-conferencing)
 - [Firewall](#firewall)
 - [Private DNS](#private-dns)
 
@@ -228,6 +229,13 @@ The list will keep updating based on analysis of the products mentioned and prov
 Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
 
 
+## Video conferencing
+
+
+**🔏 Alternatives:**
+
+
+- [Jitsi Meet~](https://f-droid.org/en/packages/org.jitsi.meet/) Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [jitsi](https://meet.jit.si) .
 
 
 
