@@ -256,27 +256,17 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
 
 *DNS-over-TLS (DoT)* 
 
-- [Quad9](https://quad9.net/) routes your DNS queries through a secure network of servers around the globe. The system uses threat intelligence from more than a dozen of the industry’s leading cyber security companies to give a real-time perspective on what websites are safe and what sites are known to include malware or other threats. If the system detects that the site you want to reach is known to be infected, you’ll automatically be blocked from entry – keeping your data and computer safe. 
-
-     Ipv4- **9.9.9.9**, Ipv6 - **2620:fe::fe**
-
-
 - [Adguard](https://adguard.com/en/adguard-dns/overview.html) is a foolproof way to block Internet ads that does not require installing any applications. It is easy to use, absolutely free, easily set up on any device, and provides you with minimal necessary functions to block ads, counters, malicious websites, and adult content.
 
 
      Ipv4- **176.103.130.130**, Ipv6 **2a00:5a60::ad1:0ff**
 
 
-
 *DNS-over-HTTPS (DoH)*
 
+- Adguard -  **https://dns.adguard.com/dns-query**
 
-  - Quad9 -  **https://dns.quad9.net/dns-query**
-
-
- - Adguard -  **https://dns.adguard.com/dns-query**
-
-
+- Snopyta -  **https://fi.doh.dns.snopyta.org/dns-query**
 
 
 ## Team
