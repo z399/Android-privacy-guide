@@ -72,7 +72,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 
-* Our pick - **Telegram** (for beginners)
+* Our pick - **Signal** 
 
 
 
