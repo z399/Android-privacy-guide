@@ -225,7 +225,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 **🔏 Alternatives:**
 
 
-- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)(OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
+- [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/)(OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
 Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
 
 
@@ -235,7 +235,7 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
 **🔏 Alternatives:**
 
 
-- [Jitsi Meet~](https://f-droid.org/en/packages/org.jitsi.meet/) Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [jitsi](https://meet.jit.si) .
+- [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [jitsi](https://meet.jit.si) .
 
 
 
@@ -260,6 +260,13 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
 
 
      Ipv4- **176.103.130.130**, Ipv6 **2a00:5a60::ad1:0ff**
+
+
+
+- [Mullvad's](https://mullvad.net/en/help/dns-leaks/) DNS server 
+
+     
+     Ipv4- **193.138.218.74** 
 
 
 *DNS-over-HTTPS (DoH)*
