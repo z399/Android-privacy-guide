@@ -46,7 +46,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 
-  * Our pick - **Duckduckgo**   
+  * Our pick - **Duckduckgo** (for beginners)  
 
 ## Social Networks
 
