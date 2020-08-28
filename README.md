@@ -17,6 +17,7 @@
 - [Youtube Client](#youtube-client)
 - [Keyboard](#keyboard)
 - [App Store](#app-store)
+- [Download Manager](#download-manager)
 - [Video player](#video-player)
 - [Music player](#music-player)
 - [Password Manager](#password-manager)
@@ -159,6 +160,12 @@ The list will keep updating based on analysis of the products mentioned and prov
 
    - *note* - **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
 
+
+# Download-manager
+
+**🔏 Alternatives:**
+
+- [Download Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) is a free and Open Source download manager for Android 
 
 
 ## Video player
