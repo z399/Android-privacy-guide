@@ -115,6 +115,8 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [LineageOS](https://lineageos.org/) - an open-source Android distribution
 - [GrapheneOS](https://grapheneos.org/) - an open source privacy and security focused mobile OS with Android app compatibility.
+- [CalyxOS](https://calyxos.org/) -an excellent open source mobile OS, Which have already reconfigured Android to avoid Google's spyware and tracking. It uses the F-droid app store for installing and updating free software applications, and strips out Google's privacy invasive business model, replacing it with microG, a free software re-implementation of Google’s proprietary services which allows you to run nearly every app from Google's Play Store without giving Google access to your phone.
+
 
 ## Browsers
 
