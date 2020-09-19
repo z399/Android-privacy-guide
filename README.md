@@ -23,6 +23,7 @@
 - [Password Manager](#password-manager)
 - [Torrent Client](#torrent-client)
 - [Digital Notebook](#digital-notebook)
+- [Feed Aggregator](#feed-aggregator)
 - [File Sharing](#file-sharing)
 - [Maps](#maps)
 - [Video conferencing](#video-conferencing)
@@ -217,6 +218,22 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 
 * Our pick - **Standard Notes** (for beginners)
+
+
+
+
+## Feed Aggregator
+
+
+**🔏 Alternatives:**
+
+
+- [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) is a fully free/libre feed reader. It supports all common feed formats, including JSONFeed. It doesn't track you. It doesn't require any setup. It doesn't even need you to create an account! Just setup your feeds, or import them from your old reader via OPML, then get on with syncing and reading.
+
+
+
+
+
 
 
 ## File Sharing  
