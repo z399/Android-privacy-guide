@@ -12,6 +12,7 @@
 - [Cloud Storage](#cloud-storage)
 - [VPN](#vpn)
 - [Email](#email)
+- [Authenticator](#authenticator)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
 - [Youtube Client](#youtube-client)
@@ -109,6 +110,19 @@ The list will keep updating based on analysis of the products mentioned and prov
 - [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
 
 * Our pick - **Protonmail** (for beginners)
+
+
+
+## Authenticator
+
+**🔏 Alternatives:**
+
+- [Aegis Authenticator](https://getaegis.app/) is a free, secure and open source app for Android to manage your 2-step verification tokens for your online services
+
+
+
+
+
 
 ## Operating Systems
 
