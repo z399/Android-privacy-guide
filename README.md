@@ -95,6 +95,8 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 **🔏 Alternatives:**
 
+- [Orbot](https://guardianproject.info/apps/org.torproject.android/) is a free software Proxy server project to provide anonymity on the Internet for users of the Android operating system. It acts as an instance of the Tor network on such devices and allows traffic routing from a device's web browser, e-mail client, map program, etc., through the Tor network, providing anonymity for the user.
+
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
 
 
@@ -129,7 +131,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 **🔏 Alternatives:**
 
 - [LineageOS](https://lineageos.org/) - an open-source Android distribution
-- [GrapheneOS](https://grapheneos.org/) - an open source privacy and security focused mobile OS with Android app compatibility.
+- [GrapheneOS](https://grapheneos.org/) is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. GrapheneOS also develops various apps and services with a focus on privacy and security.
 - [CalyxOS](https://calyxos.org/) -an excellent open source mobile OS, Which have already reconfigured Android to avoid Google's spyware and tracking. It uses the F-droid app store for installing and updating free software applications, and strips out Google's privacy invasive business model, replacing it with microG, a free software re-implementation of Google’s proprietary services which allows you to run nearly every app from Google's Play Store without giving Google access to your phone.
 
 
@@ -175,7 +177,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [Aurora Store](https://auroraoss.com/) is an Unofficial FOSS client to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about app tracker & adware and much more.
 
-   - *note* - **Both of them are recommended, F-droid for free open-source apps and Aurora Store for proprietary apps from google play store which is not available in f-droid**
+   - *note* - **Aurora Store for specific apps from google play store which is not available in f-droid**
 
 
 # Download-manager
