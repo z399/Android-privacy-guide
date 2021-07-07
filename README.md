@@ -131,8 +131,9 @@ The list will keep updating based on analysis of the products mentioned and prov
 **🔏 Alternatives:**
 
 - [LineageOS](https://lineageos.org/) - an open-source Android distribution
+
 - [GrapheneOS](https://grapheneos.org/) is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. GrapheneOS also develops various apps and services with a focus on privacy and security.
-- [CalyxOS](https://calyxos.org/) -an excellent open source mobile OS, Which have already reconfigured Android to avoid Google's spyware and tracking. It uses the F-droid app store for installing and updating free software applications, and strips out Google's privacy invasive business model, replacing it with microG, a free software re-implementation of Google’s proprietary services which allows you to run nearly every app from Google's Play Store without giving Google access to your phone.
+
 
 
 ## Browsers
@@ -141,12 +142,9 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [Bromite](https://www.bromite.org/) - is Chromium plus ad blocking and enhanced privacy
 
-- [Brave](https://www.brave.com/) - (android version) The browser blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators. Based on chromium
-
 - [Tor Browser](https://www.torproject.org) - (android version) isolates each website you visit so third-party trackers and ads can't follow you. Any cookies automatically clear when you're done browsing. So will your browsing history.
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)- (android version) is a free and open-source web browser, which respects your privacy
-
+- [Vanadium](https://github.com/GrapheneOS/Vanadium)- (android version) is is a privacy and security hardened variant of Chromium providing the WebView (used by other apps to render web content) and standard browser for [GrapheneOS](https://grapheneos.org/).
 * Our pick - **Bromite**
 
 ## Youtube Client
@@ -194,7 +192,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 ## Music player
 
-- [Music](https://f-droid.org/packages/com.maxfour.music/) is a Lightweight and Material Music Player
+- [Music Player Go](https://f-droid.org/en/packages/com.iven.musicplayergo/) is a minimal yet fully-featured local music player aiming at simplicity and performance.
 
 
 ## Password Manager 
@@ -245,8 +243,6 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 
 - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) is a fully free/libre feed reader. It supports all common feed formats, including JSONFeed. It doesn't track you. It doesn't require any setup. It doesn't even need you to create an account! Just setup your feeds, or import them from your old reader via OPML, then get on with syncing and reading.
-
-
 
 
 
