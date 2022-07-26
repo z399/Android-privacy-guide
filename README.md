@@ -39,8 +39,6 @@ enlisted below. The applications are tested and it is neither free or the servic
 
 The list will keep updating based on analysis of the products mentioned and provide the suitable privacy updates in the future.
 
-**Join the channel - https://t.me/FLOSSandroid**
-
 ## Search Engines
 
 **🔏 Alternatives:**
@@ -88,7 +86,7 @@ The list will keep updating based on analysis of the products mentioned and prov
 
 - [MEGA](https://mega.nz/) - Files are end-to-end encrypted locally before they are uploaded 
 
-* Our pick - **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service and encrypt your files with [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
+* Our pick - **MEGA** (for beginners). As a general rule of thumb, encrypt files locally before uploading to any service. The recommended tool is [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
   
 
 ## VPN
@@ -314,6 +312,5 @@ Enjoy voice and optical navigation, viewing POIs (points of interest), creating 
 - Snopyta -  **https://fi.doh.dns.snopyta.org/dns-query**
 
 
-<p align="center"> Join the channel - https://t.me/FLOSSandroid </p>
 
 
